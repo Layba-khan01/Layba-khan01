@@ -1,8 +1,3 @@
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/3a05b1c3-4d7c-474b-8230-47490c19df21" width="100%" autoplay loop>
-  </video>
-</p>
-
 # Hey there! I'm Layba.
 
 
