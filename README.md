@@ -12,7 +12,7 @@
 <a href="mailto:khanlayba04@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <a href="https://stackoverflow.com/users/32184509" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
 <a href="https://x.com/itz_lay_01" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-<a href="https://instagram.com/laybaa_khannn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="https://instagram.com/legally_brunette_0107" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 # 💻 Tech Stack:
