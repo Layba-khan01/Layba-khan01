@@ -20,7 +20,7 @@
 
 🛡️ Cybersecurity & Networking
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark" /> 
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="wireshark" />
 <img src="https://cdn.simpleicons.org/splunk/ffffff" height="45" alt="splunk" />
 <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="45" alt="cisco" />
@@ -32,7 +32,7 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="typescript" />
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5" />
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" /> <br>
 <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="pandas" />
 <img height="45" alt="Matplotlib" src="https://github.com/user-attachments/assets/b9ec3128-75df-41c2-b5f0-5d0d3b92cad2" />
